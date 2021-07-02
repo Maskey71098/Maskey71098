@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi, I'm Abhishek Raj Maskey 👋
 
-<!--
-**Maskey71098/Maskey71098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Typing text -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=05F747&lines=Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+<!-- Github Card -->
+![Maskey71098's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maskey71098&theme=blue-green&show_icons=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+___
+- 🔭 I’m currently working on developing my skills
+- 🌱 I’m currently learning Machine Learning
+- 📫 How to reach me: </br>
+<a href="https://www.facebook.com/abhishek.maskey.54/">
+  <img align="left" alt="Abhishek Maskey | facebook" width="20px" src="https://raw.githubusercontent.com/Maskey71098/Maskey71098/main/assets/icons8-facebook.svg" />
+</a>
+<a href="https://www.linkedin.com/in/abhishek-maskey-4174b11ab/">
+  <img align="left" alt="Abhishek Maskey | LinkedIn" width="21px" src="https://raw.githubusercontent.com/Maskey71098/Maskey71098/main/assets/icons8-linkedin.svg" />
+</a></br>
+- 📚 Read my blogs: </br>
+<a href="https://medium.com/@abhishekmaskey-67701">
+  <img align="left" alt="Abhishek's Medium" width="21px" src="https://raw.githubusercontent.com/Maskey71098/Maskey71098/main/assets/icons8-medium-monogram.svg" />
+</a> 
+
