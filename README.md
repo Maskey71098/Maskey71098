@@ -18,7 +18,6 @@ ___
 </a>  
 </br>  
 - 📚 Read my blogs:
-<a href="https://medium.com/@abhishekmaskey-67701">
-  <img align="center" alt="Abhishek's Medium" width="21px" src="https://raw.githubusercontent.com/Maskey71098/Maskey71098/main/assets/icons8-medium-monogram.svg" />
+<a href="https://medium.com/@abhishekmaskey-67701">here
 </a> 
 
